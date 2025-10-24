@@ -44,15 +44,6 @@ P75_Hedge_Prices_With_Negative_Curtailment.xlsx Final P75 hedge prices by market
 main_model.ipynb Single notebook executing entire
 pipeline
 ```
-#### •
-
-#### •
-
-#### •
-
-#### •
-
-
 ## Environment Setup
 
 ```
@@ -106,9 +97,6 @@ Negative price curtailment : if simulated price < 0 → revenue = 0.
 Calculate 25th percentile of simulated prices.
 Output saved to P75_Hedge_Prices_With_Negative_Curtailment.xlsx.
 ```
-#### • • • • • • • • • • • • • • • • •
-
-
 ### 6. Visualization
 
 ```
@@ -159,19 +147,6 @@ ERCOT 87.4 76.2 High volatility, negative pricing
 MISO 57.2 52.1 Stable pricing
 CAISO 36.5 31.7 Solar saturation & curtailment
 ```
-#### •
-
-#### •
-
-#### 1.
-
-#### 2.
-
-#### 3.
-
-#### 4.
-
-
 ## Interpretation
 
 ```
