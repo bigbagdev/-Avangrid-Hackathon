@@ -135,7 +135,7 @@ conditions.
 P75 Hedge Price — 25th percentile of simulated price distribution, representing a risk-adjusted
 hedge level.
 ```
-## 📊 Sample Output Table
+## Sample Output Table
 
 ```
 Market Expected Price ($/MWh) P75 Hedge Price ($/MWh) Key Drivers
