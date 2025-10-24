@@ -23,7 +23,7 @@ openpyxl (Excel I/O)
 File Description
 ```
 ```
-HackathonDataset (3).xlsx
+HackathonDataset.xlsx
 Raw historical hourly data for ERCOT,
 MISO, CAISO
 ```
