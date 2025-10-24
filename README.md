@@ -1,4 +1,4 @@
-# Renewable Energy Merchant Valuation —
+# Renewable Energy Merchant Valuation
 
 # Hackathon Submission
 
@@ -121,7 +121,7 @@ gen_vol Generation volatility 0.
 n_sim Monte Carlo simulation runs 1000
 ```
 ```
-negative_price_rule Curtail revenue at negative price Enabled ✅
+negative_price_rule Curtail revenue at negative price Enabled 
 ```
 ## Methodology Summary
 
